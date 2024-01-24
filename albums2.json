@@ -1,0 +1,199 @@
+{
+  "albums": [
+      {
+          "id": 1,
+          "name": "summer",
+          "thumbnail": "https://images.pexels.com/photos/4607509/pexels-photo-4607509.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "photos": [
+              {   
+                  "name": "TBT",
+                  "url": "https://images.pexels.com/photos/9470551/pexels-photo-9470551.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              },
+              {
+                  "name": "Take me back",
+                  "url": "https://images.pexels.com/photos/1053536/pexels-photo-1053536.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Sun is shining",
+                  "url": "https://images.pexels.com/photos/3404740/pexels-photo-3404740.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Refreshing",
+                  "url": "https://images.pexels.com/photos/13902052/pexels-photo-13902052.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Vacay",
+                  "url": "https://images.pexels.com/photos/9140490/pexels-photo-9140490.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Sun's out",
+                  "url": "https://images.pexels.com/photos/8651625/pexels-photo-8651625.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              }
+              
+          ]
+      },
+      {
+          "id": 2,
+          "name": "jiu jitsu",
+          "thumbnail": "https://media.istockphoto.com/id/925615508/photo/jujitsu-skills-on-practice.jpg?b=1&s=612x612&w=0&k=20&c=8PUAwkNUlXrHGTW9InPHTSWx7oO9dsAG1ZZxUoYDH_w=",
+          "photos": [
+              {
+                  "name": "Tap",
+                  "url": "https://images.pexels.com/photos/5424550/pexels-photo-5424550.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Sub attempt",
+                  "url": "https://images.pexels.com/photos/5424557/pexels-photo-5424557.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "leverage",
+                  "url": "https://images.pexels.com/photos/10610181/pexels-photo-10610181.jpeg?auto=compress&cs=tinysrgb&w=1200"
+
+              },
+              {
+                  "name": "Rolling",
+                  "url": "https://images.pexels.com/photos/10610180/pexels-photo-10610180.jpeg?auto=compress&cs=tinysrgb&w=1200"
+
+              },
+              {
+                  "name": "OSS",
+                  "url": "https://images.pexels.com/photos/8612531/pexels-photo-8612531.jpeg?auto=compress&cs=tinysrgb&w=1200"
+
+              },
+              {
+                  "name": "Acai after",
+                  "url": "https://images.pexels.com/photos/10610182/pexels-photo-10610182.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              }
+              
+          ]
+      },
+      {
+          "id": 3,
+          "name": "winter",
+          "thumbnail": "https://images.pexels.com/photos/259583/pexels-photo-259583.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "photos": [
+              {
+                  "name": "Cold outside",
+                  "url": "https://images.pexels.com/photos/730256/pexels-photo-730256.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Hot chocolate please",
+                  "url": "https://images.pexels.com/photos/302743/pexels-photo-302743.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Happy holidays",
+                  "url": "https://images.pexels.com/photos/789382/pexels-photo-789382.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Freezing",
+                  "url": "https://images.pexels.com/photos/700535/pexels-photo-700535.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "All I want for..",
+                  "url": "https://images.pexels.com/photos/1620653/pexels-photo-1620653.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Chilly",
+                  "url": "https://images.pexels.com/photos/32192/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1200"
+              }
+              
+          ]
+      },
+      {
+          "id": 4,
+          "name": "Las Vegas",
+          "thumbnail": "https://images.pexels.com/photos/12510549/pexels-photo-12510549.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "photos": [
+              {
+                  "name": "What happens...",
+                  "url": "https://images.pexels.com/photos/3935700/pexels-photo-3935700.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Vegas Baby!",
+                  "url": "https://images.pexels.com/photos/2316783/pexels-photo-2316783.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Bottoms up",
+                  "url": "https://images.pexels.com/photos/12925247/pexels-photo-12925247.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Vegas",
+                  "url": "https://images.pexels.com/photos/1094720/pexels-photo-1094720.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Vacay",
+                  "url": "https://images.pexels.com/photos/9576892/pexels-photo-9576892.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Live it up",
+                  "url": "https://images.pexels.com/photos/11869188/pexels-photo-11869188.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              }
+              
+          ]
+      },
+      {
+          "id": 5,
+          "name": "spring",
+          "thumbnail": "https://images.pexels.com/photos/4279117/pexels-photo-4279117.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "photos": [
+              {
+                  "name": "Spring break",
+                  "url": "https://images.pexels.com/photos/5935189/pexels-photo-5935189.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Vacation",
+                  "url": "https://images.pexels.com/photos/2311713/pexels-photo-2311713.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Tbt",
+                  "url": "https://images.pexels.com/photos/1142941/pexels-photo-1142941.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              },
+              {
+                  "name": "Perfect day",
+                  "url": "https://images.pexels.com/photos/2101528/pexels-photo-2101528.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "self care",
+                  "url": "https://images.pexels.com/photos/2797332/pexels-photo-2797332.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Finally",
+                  "url": "https://images.pexels.com/photos/1267291/pexels-photo-1267291.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              }
+              
+          ]
+      },
+      {
+          "id": 6,
+          "name": "Gym",
+          "thumbnail": "https://images.pexels.com/photos/949132/pexels-photo-949132.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "photos": [
+              {
+                  "name": "Sweat it out",
+                  "url": "https://images.pexels.com/photos/4164640/pexels-photo-4164640.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Push harder",
+                  "url": "https://images.pexels.com/photos/4753990/pexels-photo-4753990.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "No pain",
+                  "url": "https://images.pexels.com/photos/1978505/pexels-photo-1978505.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Pump",
+                  "url": "https://images.pexels.com/photos/6999241/pexels-photo-6999241.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Another one",
+                  "url": "https://images.pexels.com/photos/6998744/pexels-photo-6998744.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              },
+              {
+                  "name": "Last set",
+                  "url": "https://images.pexels.com/photos/6999022/pexels-photo-6999022.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              }
+              
+          ]
+      }
+  ]
+}
